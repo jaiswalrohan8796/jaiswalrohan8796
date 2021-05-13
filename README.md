@@ -25,9 +25,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/rohanjaiswal" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="rohanjaiswal" height="30" width="40" /></a>
 <a href="https://instagram.com/rohan_jaiswal_0" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="rohan_jaiswal_0" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/jaiswalrohan8796" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="jaiswalrohan8796" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/jaiswalrohan8796/profile" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" alt="jaiswalrohan8796/profile" height="30" width="40" /></a>
-<a href="/https://rohanjaiswal.hashnode.dev/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/rss.svg" alt="https://rohanjaiswal.hashnode.dev/rss.xml" height="30" width="40" /></a>
+<a href="/https://rohanjaiswal.hashnode.dev/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/rss.svg" alt="Hashnode" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
