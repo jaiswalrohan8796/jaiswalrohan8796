@@ -26,7 +26,7 @@
 <a href="https://linkedin.com/in/rohanjaiswal" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="rohanjaiswal" height="30" width="40" /></a>
 <a href="https://instagram.com/rohan_jaiswal_0" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="rohan_jaiswal_0" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/jaiswalrohan8796/profile" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" alt="jaiswalrohan8796/profile" height="30" width="40" /></a>
-<a href="/https://rohanjaiswal.hashnode.dev/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/rss.svg" alt="Hashnode" height="30" width="40" /></a>
+<a href="/https://rohanjaiswal.hashnode.dev/rss.xml" target="blank"><img align="center" src="https://res.cloudinary.com/rj-cloudinary/image/upload/v1620986237/hashnode_kg1koq.png" alt="Hashnode" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
