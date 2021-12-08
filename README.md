@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://rohanjaiswal.hashnode.dev/](https://rohanjaiswal.hashnode.dev/)
 
-- 💬 Ask me about **Web Development, CSS, Bootstrap, NodeJS, MongoDB**
+- 💬 Ask me about **Web Development and Data Engineering**
 
 - 📫 How to reach me **jaiswalrohan8796@gmail.com**
 
