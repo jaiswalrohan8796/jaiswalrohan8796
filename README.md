@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswalrohan8796&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswalrohan8796" /> </p>
 
-- 🔭 I’m currently working on [Digital Health Record Portal](https://github.com/jaiswalrohan8796/Digital-Health-Record-Portal)
+- 🔭 I’m currently working on [Fosfor](https://www.fosfor.com/lumin/)
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://rohanjaiswal.ml/](https://rohanjaiswal.ml/)
+- 👨‍💻 All of my projects are available at [jaiswalrohan8796.github.io/](https://jaiswalrohan8796.github.io/)
 
-- 📝 I regularly write articles on [https://rohanjaiswal.hashnode.dev/](https://rohanjaiswal.hashnode.dev/)
+- 📝 I often write articles on [https://rohanjaiswal.hashnode.dev/](https://rohanjaiswal.hashnode.dev/)
 
 - 💬 Ask me about **Web Development and Data Engineering**
 
