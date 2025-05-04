@@ -1,21 +1,14 @@
 <h1 align="center">Hi 👋, I'm Rohan Jaiswal</h1>
-<h3 align="center">An Engineer from Mumbai. Loves to build web applications.</h3>
+<h3 align="center">A Software Sorcerer🪄 from Mumbai, India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswalrohan8796&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswalrohan8796" /> </p>
 
-- 🔭 I’m currently working on [Fosfor](https://www.fosfor.com/lumin/)
-
-- 🌱 I’m currently learning **ReactJS**
-
-- 👨‍💻 All of my projects are available at [jaiswalrohan8796.github.io/](https://jaiswalrohan8796.github.io/)
-
-- 📝 I often write articles on [https://rohanjaiswal.hashnode.dev/](https://rohanjaiswal.hashnode.dev/)
-
-- 💬 Ask me about **Web Development and Data Engineering**
-
-- 📫 How to reach me **jaiswalrohan8796@gmail.com**
-
-- ⚡ Fun fact **I'm a Movies/TV show geek too !**
+- 🔮 Enchanting sharp, scalable code with a pinch of humor.  
+- 🚀 Over 4 years of experience crafting robust products across data analysis, fitness, and domain industries.
+- 💥 Skilled in React, Vue (pixel-perfect UIs), Nest, Rails, Laravel (rock-solid backends), data engineering pipelines, and DevOps magic.
+- 🏋️‍♂️ Own projects end-to-end — from crushing challenges to shipping digital dynamite.
+- 📚 Off the keyboard: devouring self-help books, binging horror flicks, running trails, and conquering treks with epic views.
+- 📬 Reach me at jaiswalrohan8796@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
